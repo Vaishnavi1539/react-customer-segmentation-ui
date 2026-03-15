@@ -4,8 +4,6 @@ A modern React-based UI component that showcases prospective customer segmentati
 This interface visually categorizes different types of customers using interactive cards and a horizontal slider layout.
 The project demonstrates component-based design, responsive layout, and clean UI implementation using React.
 
-📸 Preview
-<img width="100%" src="prospective.png" alt="Prospective Customer Segmentation UI">
 
 ✨ Features
 Responsive card-based segmentation UI
