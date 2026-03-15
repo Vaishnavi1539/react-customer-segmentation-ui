@@ -1,12 +1,25 @@
-# React + Vite
+Prospective Customer Segmentation – React UI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern React-based UI component that showcases prospective customer segmentation for a digital banking platform.
+This interface visually categorizes different types of customers using interactive cards and a horizontal slider layout.
+The project demonstrates component-based design, responsive layout, and clean UI implementation using React.
 
-Currently, two official plugins are available:
+📸 Preview
+<img width="100%" src="prospective.png" alt="Prospective Customer Segmentation UI">
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✨ Features
+Responsive card-based segmentation UI
 
-## Expanding the ESLint configuration
+1.Horizontal scrolling slider
+2.Clean modern fintech design
+3.Reusable React components
+4.Simple and maintainable component structure
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🛠️ Built With
+
+React
+Vite
+JavaScript
+CSS
+HTML
+Talwind CSS
